@@ -10,6 +10,15 @@ A list of cool or useful resources to use for Software Engineering, Data Science
 ## Data Science
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 
+## DevOps
+* [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+* 
+
+## Explaining stuff to people
+* [How to prepare a tech conference](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
+* [Richard Feynmann and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
+
 ## Online Discussion
 
 * [HackerNews](https://news.ycombinator.com/news)
+
