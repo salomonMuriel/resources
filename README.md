@@ -1,5 +1,3 @@
-# Resources
-
 A list of cool or useful resources to use for Software Engineering, Data Science, or anything else. Feel free to add anything with a PR. I have read/tried most of these but not all, so this also works as a book/article/tool recommendation tracker for myself.
 
 These are mostly for my own reference. In case you read them and wonder 'why isn't X here?',  the answer is probably one of 2:
