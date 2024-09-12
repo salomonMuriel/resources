@@ -4,7 +4,7 @@ A list of cool or useful resources to use for Software Engineering, Data Science
 
 These are mostly for my own reference. In case you read them and wonder 'why isn't X here?',  the answer is probably one of 2:
 1. I don't know it exists. Please tell me about it!
-2. It's very common/widespread and I don't think it needs mentioning. Yes, I know Pandas/Postgres/NextJS/Scikit-Learn/etc exist and I love them.
+2. It's very common/widespread and I don't think it needs mentioning.
 
 Also, reminder for myself: Read the documentation first, second and last!
 
@@ -154,12 +154,14 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [My site!](https://salomonmuriel.com/)
 * [Curated list of Personal Websites](https://www.personalwebsites.xyz/)
 * [Awesome Website Paths](https://github.com/jameschensmith/awesome-website-paths)
-
 * [Dustin Brett's](https://dustinbrett.com/)
 * [Derek Sivers'](https://sive.rs/)
 * [Marius Hauken's](https://hauken.io/)
 * [Paul Graham's](https://www.paulgraham.com/)
 * [Ana Rodrigues'](https://ohhelloana.blog/)
+* [Simon Willison's](https://simonwillison.net/)
+* [Julia Evans'](https://jvns.ca/)
+* [Nicky Cases's](https://ncase.me/)
 
 ## 🎨 Algorithmic Art
 * [Birds of a Feather](https://github.com/erdavids/Birds-of-a-Feather)
