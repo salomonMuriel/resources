@@ -36,6 +36,10 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Oops.js](https://github.com/HeyPuter/Oops.js) - Undo/Redo library
 * [Remotion](https://github.com/remotion-dev/remotion) - Video generation with React
 * [Moveable](https://github.com/daybrush/moveable) - Drag and drop and resize and more for React
+* [Kivy](https://kivy.org/) - Python library for creating UIs
+* 🎥 [DevelopedByEd](https://www.youtube.com/@developedbyed)
+* 🎥 [Matt Pocock](https://www.youtube.com/@mattpocockuk)
+
 
 ## 🐍 Python
 
@@ -43,6 +47,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Your Journey To Flowing Python](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python) - Step by step guide to becoming a Python master.
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) - Python Cheatsheet
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1492056359/dp/1492056359/ref=dp_ob_title_bk)
+* 🎥 [mCoding](https://www.youtube.com/@mCoding)
 
 ## 📊 Data Science
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
@@ -61,15 +66,39 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Supervision](https://github.com/roboflow/supervision) - Computer vision framework
 * [Segment Geospatial Data](https://github.com/opengeos/segment-geospatial)
 * [drl-zh](https://github.com/alessiodm/drl-zh) - Deep Reinforcement Learning, From Zero to Hero!
+* [Deep Learning list of things to learn](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+* 🎥 [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+* 🎥 [Greg Kamradt](https://www.youtube.com/@DataIndependent)
+* 🎥 [Lama Dev](https://www.youtube.com/@LamaDev)
+* 🎥 [Primer Blobs](https://www.youtube.com/@PrimerBlobs)
+* 🎥 [William Candillon](https://www.youtube.com/@wcandillon)
+
 
 ## 🛠️ DevOps
 * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 * [kener Status Page](https://github.com/rajnandan1/kener) - Simple Status Page for your services
+* [tinystatus](https://github.com/harsxv/tinystatus) - Simple Status Page for your service
+* [Dokku](https://hamel.dev/blog/posts/dokku/) - Dokku is awesome
 
 ## 💻 Programming & General Dev
 * [codecrafters](https://codecrafters.io/) - Learn by coding real projects you use often
 * [exercism](https://exercism.org/) - Practice coding with real problems
 * [Supabase Index Advisor](https://github.com/supabase/index_advisor) - See where you need to place your DB indexes
+* [PgQueuer](https://github.com/janbjorge/PgQueuer) - Create queues in Postgres
+* [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
+* [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+* 🎥 [Fireship](https://www.youtube.com/@fireship)
+* 🎥 [Beyond Fireship](https://www.youtube.com/@beyondfireship)
+* 🎥 [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
+* 🎥 [Awesome Coding](https://www.youtube.com/@awesome-coding)
+* 🎥 [Ben Holmes](https://www.youtube.com/@bholmesdev)
+* 🎥 [Carykh](https://www.youtube.com/@carykh)
+* 🎥 [CodingWithLewis](https://www.youtube.com/@CodingWithLewis)
+* 🎥 [Daniel Boctor](https://www.youtube.com/@DanielBoctor)
+* 🎥 [Kevin Fang](https://www.youtube.com/@kevinfaang)
+* 🎥 [Krazam](https://www.youtube.com/@KRAZAM)
+* 🎥 [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
+
 
 ## 💼 Entrepreneurship & Business
 * [The Early Days of Valve from a Woman Inside](https://medium.com/@monicah428/the-early-days-of-valve-from-a-woman-inside-bf80c6b47961)
@@ -81,13 +110,76 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [B Corp Standards](https://standards.bcorporation.net/en-us/draft)
 * [Startupable](https://startupeable.com/) - LatAm startup news and directory
 * [HarvardX: Technology Entrepreneurship Lab to Market](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market)
+* [2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [Founder Mode](https://paulgraham.com/foundermode.html)
+* [Orion: From Idea to Launch in 45 Days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
+* [Why and how to start a startup serving emerging markets](https://www.benkuhn.net/emco/)
+* 🎥 [Y Combinator](https://www.youtube.com/@ycombinator)
+* 🎥 [UpFlip](https://www.youtube.com/@UpFlip)
+* 🎥 [Enrico Tartarotti](https://www.youtube.com/@enricotartarotti)
+* 🎥 [Mentes Creadoras](https://www.youtube.com/@mentescreadoras.podcast)
 
+## 🧰 Maker
+* [Stuff Made Here](https://www.youtube.com/@StuffMadeHere) - This guy is who I want to be when I grow up.
+* 🎥 [Colin Furze](https://www.youtube.com/@colinfurze)
+* 🎥 [DIY Perks](https://www.youtube.com/@DIYPerks)
+* 🎥 [The Hacksmith](https://www.youtube.com/c/thehacksmith)
+* 🎥 [Mark Rober](https://www.youtube.com/@MarkRober)
+* 🎥 [Zack Freedman](https://www.youtube.com/@ZackFreedman)
+* 🎥 [Super Make Something](https://www.youtube.com/@SuperMakeSomething)
+* 🎥 [Weisz](https://www.youtube.com/@Weisz)
+* 🎥 [The Maker Monster](https://www.youtube.com/@TheMakerMonster)
+* 🎥 [Alexandre Chappel](https://www.youtube.com/@achappel)
+* 🎥 [Allen Pan](https://www.youtube.com/@allenpan)
+* 🎥 [Christine Sunu](https://www.youtube.com/@mobiwobi)
+* 🎥 [Dave Madison](https://www.youtube.com/@dave.madison)
+* 🎥 [Jackman Works](https://www.youtube.com/@JackmanWorks)
+* 🎥 [Keep-Making](https://www.youtube.com/@Keep-Making)
+
+## 🖨️ 3D Printing
+
+* [SolidPython](https://github.com/SolidCode/SolidPython/) - 3D modeling with Python
+* [Printables](https://www.printables.com/) - 3D models (best site in my opinion)
+* 🎥 [3D Printer Academy](https://www.youtube.com/@3DPrinterAcademy)
+* 🎥 [Christopher's Factory](https://www.youtube.com/@christophersfactory)
+* 🎥 [CNCKitchen](https://www.youtube.com/@CNCKitchen)
+* 🎥 [MakersMuse](https://www.youtube.com/@MakersMuse)
+* 🎥 [MakerUnit](https://www.youtube.com/@makerunit)
+
+
+## 🧠 General Learning
+* 🎥 [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
+* 🎥 [Real Engineering](https://www.youtube.com/@RealEngineering)
+* 🎥 [Crash Course](https://www.youtube.com/@crashcourse)
+* 🎥 [PBoyle](https://www.youtube.com/@PBoyle)
+* 🎥 [Veritasium](https://www.youtube.com/@veritasium)
+* 🎥 [Smarter Every Day](https://www.youtube.com/@smartereveryday)
+* 🎥 [CuriousDroid](https://www.youtube.com/@CuriousDroid)
+* 🎥 [MinutePhysics](https://www.youtube.com/@minutephysics)
+* 🎥 [Be Smart](https://www.youtube.com/@besmart)
+* 🎥 [Real Science](https://www.youtube.com/@realscience)
+* 🎥 [Chemical Force](https://www.youtube.com/@ChemicalForce)
+* 🎥 [Dr Becky](https://www.youtube.com/@DrBecky)
+* 🎥 [Economics Explained](https://www.youtube.com/@EconomicsExplained)
+* 🎥 [Steve Mould](https://www.youtube.com/@SteveMould)
+* 🎥 [Engineer Guy](https://www.youtube.com/@engineerguyvideo)
+* 🎥 [Fire of Learning](https://www.youtube.com/@Fireoflearning)
+* 🎥 [Freya Holmér](https://www.youtube.com/@acegikmo)
+* 🎥 [Institute of Human Anatomy](https://www.youtube.com/@theanatomylab)
+* 🎥 [Jeremy Fielding](https://www.youtube.com/@Jeremy_Fielding)
+* 🎥 [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
+* 🎥 [MinutePhysics](https://www.youtube.com/@MinutePhysics)
+* 🎥 [Numberphile](https://www.youtube.com/@numberphile)
+* 🎥 [Science ABC](https://www.youtube.com/@Scienceabc)
+* 🎥 [Scott Manley](https://www.youtube.com/@scottmanley)
 
 
 ## 🗣️ Explaining stuff to people
 * [Richard Feynmann and the Connection Machine](https://longnow.org/essays/richard-feynman-and-connection-machine/)
 * [How to prepare a tech conference](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
+* 🎥 [Alpha Phoenix](https://www.youtube.com/@AlphaPhoenixChannel)
+* 🎥 [Marques Brownlee's 'Explained!'](https://www.youtube.com/playlist?list=PL6566A39B68523E18)
+* 🎥 [Oliver's Videos](https://www.youtube.com/@OliversVideos)
 
 ## 💬 Online Discussion
 
@@ -119,7 +211,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines
 * [Sink](https://github.com/ccbikai/Sink) - Self-hosted link shortener
 * [QRCode Monkey](https://www.qrcode-monkey.com/#mecard) - QR Code Generator
-
+* [flameshot](https://flameshot.org/) - Screenshot tool
 
 ## 🔌 APIs you can integrate QUICKLY
 
@@ -130,17 +222,15 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [SerpApi](https://serpapi.com/) - Google Search Results
 * [ipapi](https://ipapi.com/) - IP Geolocation
 
-
-## 🖨️ 3D Printing
-
-* [SolidPython](https://github.com/SolidCode/SolidPython/) - 3D modeling with Python
-* [Printables](https://www.printables.com/) - 3D models (best site in my opinion)
-
 ## 🌟 Lifestyle
 * [Atomic Habits Resources](https://jamesclear.com/atomic-habits/resources)
 * [Wanting Power: The Mimetic Desire in Everyday Life](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)
 * [Build the Life You Want: The Art and Science of Getting Happier](https://www.amazon.com/Build-Life-You-Want-Science/dp/0593545400)
 * [From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life](https://www.amazon.com/Strength-Finding-Success-Happiness-Confidence/dp/059319148X)
+* [How to Walk and Talk](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf) - Setting up week-long trips to create deep connections with people.
+* [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/)
+* [Working Smarter Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
+* [The Dumber Side of Smart People](https://news.ycombinator.com/item?id=39626454) - Inluded HN discussion because it was great.
 
 ## 🔧 Hardware project's I'll try to build once I stop making excuses and finally learn how to solder and stop fearing electrical engineering and embedded systems programming .
 * [smartknob](https://github.com/scottbez1/smartknob)
@@ -148,10 +238,13 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [carpentopod](https://www.decarpentier.nl/carpentopod) - I want to put those legs on many things.
 * [OpenCat](https://github.com/PetoiCamp/OpenCat) - Quadruped robot.
 
-## 📝 Personal Sites I like and resources
+## 📝 Personal Sites I like and resources around personal sites
 * [My site!](https://salomonmuriel.com/)
 * [Curated list of Personal Websites](https://www.personalwebsites.xyz/)
 * [Awesome Website Paths](https://github.com/jameschensmith/awesome-website-paths)
+* [Microfeatures](https://danilafe.com/blog/blog_microfeatures/)
+* [Now Now Now](https://nownownow.com/)
+* [About Ideas Now](https://aboutideasnow.com/)
 * [Dustin Brett's](https://dustinbrett.com/)
 * [Derek Sivers'](https://sive.rs/)
 * [Marius Hauken's](https://hauken.io/)
@@ -160,6 +253,8 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Simon Willison's](https://simonwillison.net/)
 * [Julia Evans'](https://jvns.ca/)
 * [Nicky Cases's](https://ncase.me/)
+* [Daniel Fedorin's](https://danilafe.com/)
+* [Ben Kuhn's](https://www.benkuhn.net/)
 
 ## 🎨 Algorithmic Art
 * [Birds of a Feather](https://github.com/erdavids/Birds-of-a-Feather)
@@ -171,6 +266,9 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Dave](https://x.com/beesandbombs)
 * [The Nature of Code](https://natureofcode.com/)
 
-
-
-
+## 🏛️ Public Design & Urban Planning
+* [We the Possibility](https://www.wethepossibility.com/)
+* [Recoding America](https://recodingamerica.us/)
+* [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
+* 🎥 [Not Just Bikes](https://www.youtube.com/@NotJustBikes)
+* 🎥 [RoadGuyRob](https://www.youtube.com/@RoadGuyRob)
