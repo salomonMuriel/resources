@@ -79,7 +79,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [kener Status Page](https://github.com/rajnandan1/kener) - Simple Status Page for your services
 * [tinystatus](https://github.com/harsxv/tinystatus) - Simple Status Page for your service
 * [Dokku](https://hamel.dev/blog/posts/dokku/) - Dokku is awesome
-*[Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
+* [Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
 
 ## 💻 Programming & General Dev
 * [codecrafters](https://codecrafters.io/) - Learn by coding real projects you use often
