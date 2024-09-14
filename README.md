@@ -190,6 +190,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Supabase](https://supabase.com/) - Instant CRUD backend
 * [Streamlit](https://streamlit.io/) - Quick Frontend
 * [PostHog](https://posthog.com/) - Product analytics, Feature flags, A/B testing, surveys, and more
+* [Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
 * [Railway](https://railway.app/) - Quick app deployment
 * [Vercel](https://vercel.com/) - Ditto
 * [Netlify](https://www.netlify.com/) - Ditto
