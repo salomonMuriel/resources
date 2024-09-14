@@ -79,6 +79,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [kener Status Page](https://github.com/rajnandan1/kener) - Simple Status Page for your services
 * [tinystatus](https://github.com/harsxv/tinystatus) - Simple Status Page for your service
 * [Dokku](https://hamel.dev/blog/posts/dokku/) - Dokku is awesome
+*[Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
 
 ## 💻 Programming & General Dev
 * [codecrafters](https://codecrafters.io/) - Learn by coding real projects you use often
@@ -190,7 +191,6 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Supabase](https://supabase.com/) - Instant CRUD backend
 * [Streamlit](https://streamlit.io/) - Quick Frontend
 * [PostHog](https://posthog.com/) - Product analytics, Feature flags, A/B testing, surveys, and more
-* [Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
 * [Railway](https://railway.app/) - Quick app deployment
 * [Vercel](https://vercel.com/) - Ditto
 * [Netlify](https://www.netlify.com/) - Ditto
