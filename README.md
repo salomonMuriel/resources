@@ -115,6 +115,8 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Founder Mode](https://paulgraham.com/foundermode.html)
 * [Orion: From Idea to Launch in 45 Days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [Why and how to start a startup serving emerging markets](https://www.benkuhn.net/emco/)
+* [Make](https://readmake.com/)
+* [The Mom Test](https://www.momtestbook.com/)
 * 🎥 [Y Combinator](https://www.youtube.com/@ycombinator)
 * 🎥 [UpFlip](https://www.youtube.com/@UpFlip)
 * 🎥 [Enrico Tartarotti](https://www.youtube.com/@enricotartarotti)
