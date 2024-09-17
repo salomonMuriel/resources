@@ -215,6 +215,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Sink](https://github.com/ccbikai/Sink) - Self-hosted link shortener
 * [QRCode Monkey](https://www.qrcode-monkey.com/#mecard) - QR Code Generator
 * [flameshot](https://flameshot.org/) - Screenshot tool
+* [Phia](https://www.phia.app/) - Sleek screen recordings 
 
 ## 🔌 APIs you can integrate QUICKLY
 
