@@ -87,6 +87,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Supabase Index Advisor](https://github.com/supabase/index_advisor) - See where you need to place your DB indexes
 * [PgQueuer](https://github.com/janbjorge/PgQueuer) - Create queues in Postgres
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
+* [Monaspace Font](https://monaspace.githubnext.com/)
 * [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * 🎥 [Fireship](https://www.youtube.com/@fireship)
 * 🎥 [Beyond Fireship](https://www.youtube.com/@beyondfireship)
