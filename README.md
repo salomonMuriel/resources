@@ -81,6 +81,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Dokku](https://hamel.dev/blog/posts/dokku/) - Dokku is awesome
 * [Docker Compose Anywhere](https://github.com/hadijaveed/docker-compose-anywhere)
 
+
 ## 💻 Programming & General Dev
 * [codecrafters](https://codecrafters.io/) - Learn by coding real projects you use often
 * [exercism](https://exercism.org/) - Practice coding with real problems
@@ -89,6 +90,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
 * [Monaspace Font](https://monaspace.githubnext.com/)
 * [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+* [Hosting SQLite in GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * 🎥 [Fireship](https://www.youtube.com/@fireship)
 * 🎥 [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 * 🎥 [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
