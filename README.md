@@ -21,6 +21,8 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Worse is Better is Worse](https://www.dreamsongs.com/Files/worse-is-worse.pdf)
 * [Is Worse Really Better?](https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf)
 * [A Philosophy of Software Design](https://www.amazon.com/dp/B000FC1Z1G)
+* [Good Retry, Bad Retry](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+* [Idempotency](https://habr.com/ru/companies/yandex/articles/442762/)
 
 
 ## 🌐 Web Frontend
