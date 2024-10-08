@@ -24,6 +24,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [A Philosophy of Software Design](https://www.amazon.com/dp/B000FC1Z1G)
 * [Good Retry, Bad Retry](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [Idempotency](https://habr.com/ru/companies/yandex/articles/442762/)
+* [Systems that defy detailed understanding](https://blog.nelhage.com/post/systems-that-defy-understanding/#fnref:1)
 
 
 ## 🌐 Web Frontend
