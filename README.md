@@ -157,6 +157,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 
 
 ## 🧠 General Learning
+* [Learn Anything](https://learn-anything.xyz/)
 * 🎥 [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
 * 🎥 [Real Engineering](https://www.youtube.com/@RealEngineering)
 * 🎥 [Crash Course](https://www.youtube.com/@crashcourse)
