@@ -8,6 +8,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 
 ## 🏗️ Software Design & Architecture
 
+* [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 * [The Twelve Factor App](https://12factor.net/)
 * [The Elements of APIs](https://johnholdun.com/apis/)
 * [A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
