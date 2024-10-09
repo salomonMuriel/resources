@@ -95,6 +95,7 @@ Also, reminder for myself: Read the documentation first, second and last!
 * [Monaspace Font](https://monaspace.githubnext.com/)
 * [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [Hosting SQLite in GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+* [Resonate](https://www.resonatehq.io/) - SDK to simplify distrbuted `async await` programming
 * 🎥 [Fireship](https://www.youtube.com/@fireship)
 * 🎥 [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 * 🎥 [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
